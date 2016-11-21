@@ -1,0 +1,15 @@
+# compiled output
+src/**/*.js
+src/**/*.js.map
+app/**/*.js
+app/**/*.js.map
+
+# dependencies
+/node_modules
+/typings
+
+# IDEs and editors
+
+# misc
+
+
